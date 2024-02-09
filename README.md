@@ -33,10 +33,8 @@ Our team worked effectively together to develop Cine Tracker. Each member contri
 
 ## Installation
 To run Cine Tracker locally:
-1. Clone the repository: `git clone https://github.com/Sourolio10/movie-mania.git`
+1. Clone the repository: `https://github.com/bhargavithanneeru/CineTracker.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
-## License
-This project is licensed under the [MIT License](link/to/license).
 
