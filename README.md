@@ -25,11 +25,6 @@ The dataset used in Cine Tracker consists of 45,000 movies and includes ratings 
 - Navigation Bar
 - Insights
 
-## Team Contributions
-Our team worked effectively together to develop Cine Tracker. Each member contributed to different aspects of the project:
-- Bhargavi: UI design and implementation using React.js and Material UI
-- Souradeep: Database management and data preprocessing using MySQL
-- Chandra Sekhar: Backend development using Node.js, API implementation, and deployment
 
 ## Installation
 To run Cine Tracker locally:
