@@ -1,0 +1,23 @@
+.posts{
+  display: flex;  
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 50px;
+  
+}
+.post{ 
+  max-width: 350px;
+  
+  
+
+    p{
+      display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+    }
+
+    
+
+ 
+}
